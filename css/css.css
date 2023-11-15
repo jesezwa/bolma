@@ -43,7 +43,7 @@ body {
 }
 
 .hero-body {
-    background-image: url("../../images/header.jpeg");
+    background-image: url("./images/header.jpeg");
     object-fit: cover;
 }
 
